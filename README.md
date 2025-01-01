@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMzNTM0NzksIm5iZiI6MTczMzM1MzE3OSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA0VDIyNTkzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkOTQ5NTY5M2UxMTQ0YjE4NDRlYzRmMzViZjg0MTQ3MTZmYWU4YTc4ZjQwYWEyN2VmMDExNDVhNDcxNjhiYTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.cbC9g9NuTUI5u6ZWOpymhqVG74rAKuLrTC2-TzPKzJI" title="Hello" alt="Hello" width="1024" height="512"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" title="Hello" alt="Hello" width="1024" height="512"/>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JSilvestrini&style=flat-square&color=blue" alt=""/>
