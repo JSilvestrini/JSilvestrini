@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ----
 <h2 align="center">About Me:</h2>
 
-- 🔭 I’m currently working on creating a custom OpenAI Gymnasium Environment for Elden Ring and a TCG GAN.
-- 🌱 I’m currently learning the basics of ML and hope to begin working in NVidia Isaac Sim once my current project reaches its conclusion.
+- 🔭 I’m currently working on creating a custom OpenAI Gymnasium Environment for Elden Ring.
+- 🌱 I’m currently learning the basics of 3D rendering and plan on learning about GPU acceleration through compute shaders.
 - ⚡ In my free time, I enjoy reading papers on Arxiv and programming.
 <!-- - 📫 How to reach me: Linked in, etc. --> 
 
