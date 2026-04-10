@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - Developer of [PyMym](https://pypi.org/project/PyMym/), a Windows Python memory manipulation library with support for Python 3.10+
 - I'm currently developing a gymnasium environment for Elden Ring and an API wrapper for Pokémon Emerald
 - Currently reading Refactoring 2e by Fowler and Beck, along with Design Patterns by the Gang of Four
-  <!-- - 📫 How to reach me: Linked in, etc. -->
+    <!-- - 📫 How to reach me: Linked in, etc. -->
 
 ---
 
@@ -53,7 +53,7 @@ PyMym is a Python memory manipulation library made using pybind11 and the Window
 
 This was one of my previous projects that I have recently came back to. It was inspired by a post I saw on Reddit where a user was able to create a gym environment for Dark Souls 3, by using a ground truth model of the game, in which the model was able to get about a 45% win rate against the tutorial boss. The main idea for the project was to use memory manipulation to collect information for the reward function, while using image captures stacked upon each other to create something similar to what a player would see when playing. Before the current refactor/ re-write, I was able to get the model successfully running and training, with the current goal being to resume the training but with higher quality code and (hopefully) a more stable program.
 
-My main goal for the project is to get a higher win rate than 45% against at least one of the many bosses in Elden Ring, create a semi-generalized model, and check the performance of Stable Baselines 3's CNN-LSTM model using a PPO policy compared to the original Duelling Deep Q-Learning.
+My main goal for the project is to get a higher win rate than 45% against at least one of the many bosses in Elden Ring, create a semi-generalized model, and check the performance of Stable Baselines 3's CNN-LSTM policy using a Recurrent PPO algorithm compared to the original Duelling Deep Q-Learning.
 
 ### AI Plays Pokémon
 
